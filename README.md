@@ -1,2 +1,4 @@
 # divine-desktop-public
-Public repo dedicated divine-desktop, download latest releases and report issues
+Public repo dedicated to DiViNe Desktop :
+- download latest releases
+- report issues
