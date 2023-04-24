@@ -1,4 +1,4 @@
-# divine-desktop-public
-Public repo dedicated to DiViNe Desktop :
-- download latest releases
-- report issues
+# <img src="app.ico" width="28"/> DiViNe Desktop Public
+DiViNe Desktop Public repo for  :
+- downloading latest releases
+- reporting issues
